@@ -1,0 +1,10 @@
+.baz{
+    width: 300px;
+} 
+.baz p{
+    text-align:justify;
+    text-decoration: underline;
+    text-transform: capitalize;
+   
+
+}

@@ -1,0 +1,22 @@
+.foo{
+    border-collapse: collapse;
+    border-color:orange ;
+        thead{
+            background: red;
+                color: white;
+                text-transform: uppercase;
+        }
+        th{
+            padding: 30px;
+        }
+        td{
+            padding: 30px;
+        }
+      
+      tbody tr:nth-child(odd){
+        background:tomato;
+      }
+      tbody tr:nth-child(even){
+        background: gray;
+       }
+    }

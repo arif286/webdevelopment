@@ -1,0 +1,29 @@
+.foo{
+    background-color:tomato;
+    color: white;
+    width: 300px;
+    padding: 20px;
+    
+}
+.bar{
+    background-color: orange;
+    color: gray;
+    width: 300px;
+    padding: 20px;
+    
+}
+.baz{
+    background-color: yellow;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    
+}
+.foo,.bar,.baz{
+    float: left;
+    text-align: center;
+}
+.midle{
+    width: 1170px;
+    margin:auto ;
+}

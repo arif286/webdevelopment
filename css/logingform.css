@@ -1,0 +1,51 @@
+body{
+    background: #69BE4D;
+}
+
+.foo{
+    background-color: white;
+    width: 400px;
+    padding: 50px;
+    overflow: hidden;
+    margin: auto;
+    box-shadow: 1px 0px 48px -7px;
+}
+.foo input{
+    width: 89%;
+    display: block;
+    padding: 20px;
+    background: #F2F2F2;
+    margin-bottom: 20px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+}
+#bar{
+    background:linear-gradient(#349e39,#63a01b) !important;
+    color: white; 
+    width: 100%; 
+    
+}
+#bar:hover{
+    background:linear-gradient(#349e39,#63a01b) !important;
+    cursor: pointer;
+}
+.baz{
+    text-align: center;
+    font-size:18px ;
+}
+.baz span{
+color: #d0d0d0;
+}
+.baz a{
+    color: #A7DFB1;
+    text-decoration: none;
+}
+.foo h2{
+    text-align: center;
+    margin: 0;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-family:sans-serif;
+    text-shadow: 1px 1px 1px;
+}

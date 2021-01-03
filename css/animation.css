@@ -1,0 +1,23 @@
+.foo{
+    background-color: orange;
+    text-align: center;
+    font-family: sans-serif;
+    width: 150px;
+    height: 150px;
+    display: grid;
+    place-items: center;
+    animation-name:arif;
+animation-duration: 3s;
+animation-fill-mode: forwards;
+animation-iteration-count: infinite;
+animation-direction: alternate ;
+}
+@keyframes arif{
+    0%{
+        margin-left: 0px;
+    }
+    100%{
+        margin-left: 200px;
+    background: tomato;
+    }
+}

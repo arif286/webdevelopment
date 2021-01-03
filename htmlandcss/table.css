@@ -1,0 +1,27 @@
+.foo {
+  border-collapse: collapse;
+  border-color: orange;
+}
+
+.foo thead {
+  background: red;
+  color: white;
+  text-transform: uppercase;
+}
+
+.foo th {
+  padding: 30px;
+}
+
+.foo td {
+  padding: 30px;
+}
+
+.foo tbody tr:nth-child(odd) {
+  background: tomato;
+}
+
+.foo tbody tr:nth-child(even) {
+  background: gray;
+}
+/*# sourceMappingURL=table.css.map */

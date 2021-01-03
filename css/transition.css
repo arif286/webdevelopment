@@ -1,0 +1,30 @@
+div{
+    background: orange;
+    color: white;
+    width: 100px;
+    padding: 25px;
+    margin-bottom: 20px;
+    transition: width 3s;
+    transition-timing-function: ease-in;
+}
+.transition1:hover{
+    width:400px
+
+  
+}
+.transition2:hover{
+    width:400px
+
+}
+.transition3:hover{
+    width:400px
+   
+}
+.transition4:hover{
+    width:400px
+   
+}
+.transition5:hover{
+    width:400px
+    
+}
